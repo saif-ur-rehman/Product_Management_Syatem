@@ -1,0 +1,1 @@
+select  * from product inner join user on product.user_id=user.user_id where product.user_id =1;
