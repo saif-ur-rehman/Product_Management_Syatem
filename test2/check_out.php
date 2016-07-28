@@ -6,8 +6,7 @@ include ('db_connect1.php');
 ?>
 <div class="container">
 <!-- Mailing Address Form -->
-<form class="well" method="POST" role="form" action="">
-    <h1>SignUp Information</h1>
+<form class="well" method="POST" role="form" 
         <div class="form-group">
         <label for="name">Name:</label>
         <input type="text" class="form-control" name ="name" required="" placeholder="John Carter">  
