@@ -1,8 +1,8 @@
 <?php
-
+include('check_user.php');
 include ('db_connect.php');
 include ('db_connect1.php');
-
+// $p_id = $id;
 
 ?>
 
