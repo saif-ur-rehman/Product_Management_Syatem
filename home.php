@@ -1,8 +1,7 @@
 <html>
 <head>
 <?php
-include ('header.php');
-include ('db_connect1.php');
+
 ?>
     <form role="form" data-toggle="validator" method="post" class="form-horizontal">
         <div class="form-group">
