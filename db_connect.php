@@ -1,10 +1,6 @@
 <?php
 
-	//DB configuration Constants
-	define('_HOST_NAME_', 'localhost');
-	define('_USER_NAME_', 'root');
-	define('_DB_PASSWORD', 'root');
-	define('_DATABASE_NAME_', 'ms');
+\bcj ,
 
 	//PDO Database Connection
 	try {
